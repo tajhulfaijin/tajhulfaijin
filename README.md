@@ -2,7 +2,7 @@
 
 My name is Tajhul. Programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-  - 🔭 I’m currently working on creating awesome tools [aku dot io](https://aku.io)
+  - 🔭 I’m currently working on creating awesome tools ![alt text](https://aku.io/favicon.ico) - [aku dot io](https://aku.io)
   - 👯 I’m looking for collaborator on any of my open source projects, feel free to contribute!
 
 <!--
