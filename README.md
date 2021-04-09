@@ -3,8 +3,7 @@
 My name is Tajhul. Programming has had a special place in my heart ever since a young age. Here is some info on me.
 
   - 🔭 I’m currently working on creating awesome tools [aku dot io](https://aku.io)
-  - 👯 I’m looking to collaborate on any of my projects, feel free to contribute!
-
+  - 👯 I’m looking for collaborator on any of my open source projects, feel free to contribute!
 
 <!--
 **tajhulfaijin/tajhulfaijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
