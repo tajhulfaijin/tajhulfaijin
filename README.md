@@ -4,6 +4,7 @@ My name is Tajhul. Programming has had a special place in my heart ever since a 
 
   - 🔭 I’m currently working on creating awesome tools ![alt text](https://aku.io/favicon.ico) - [aku dot io](https://aku.io)
   - 👯 I’m looking for collaborator on any of my open source projects, feel free to contribute!
+  - ⚡ Fun fact: I need to code to feed my cats 🐈😸
 
 <!--
 **tajhulfaijin/tajhulfaijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
